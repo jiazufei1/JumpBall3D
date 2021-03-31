@@ -1,0 +1,9 @@
+{
+  "__version__": "1.0.1",
+  "physics": {
+    "defaultMaterial": {
+      "restitution": 1,
+      "friction": 0
+    }
+  }
+}
